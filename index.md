@@ -1,2 +1,2 @@
-[About me](about)
-[Contact me](contact)
+[About](about)
+[Contact](contact)
