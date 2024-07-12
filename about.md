@@ -1,4 +1,4 @@
-My name it's Alice Pacheco, I have 2+ years of experience working in the games industry as a QA Analyst. Below are some of the game that I've worked and was the or one of the responsible analysts.
+My name it's Alice Pacheco, I have 2+ years of experience working in the games industry as a QA Analyst. Below are some of the games that I've worked and was one of the responsible analysts.
 
 - Gotham Knights
 - ...
