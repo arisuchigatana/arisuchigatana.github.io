@@ -1,5 +1,7 @@
+<p float = "left">
 <img alt="Firebase" src="/images/tools/firebase.png"> <br>
 <img alt="Github" src="/images/tools/github.png"> <br>
+</p>
 <img alt="Git" src="/images/tools/git.png"> <br>
 <img alt="Jira" src="/images/tools/jira.png"> <br>
 <img alt="Confluence" src="/images/tools/confluence.png"> <br>
